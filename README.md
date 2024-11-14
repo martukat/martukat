@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @martukat
 - 👀 I’m interested in animals, videogames, computers, nature and environment.
-- 🌱 I’m currently learning Web Developing.
-- 💞️ I’m looking to collaborate on... nothing yet (I'm pretty noob).
+- 🌱 I’m currently working in Altia as Web Developer.
+- 💞️ I’m looking to collaborate on... nothing yet.
 - 📫 How to reach me... via my personal email (martamunos@outlook.com), I will respond as soon as possible!
 
 <!---
